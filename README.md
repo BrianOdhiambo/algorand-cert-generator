@@ -37,22 +37,6 @@ I have used the following techstacks for making this dApp
 ___
 
 The frontend react app is integrated with *MyAlgoWallet* which will be used as a login method for trainess. 
-
-## Screenshots
-Home Page
-![home](./images/home.jpg)
-
-Login with MyAlgo
-![login](./images/login.png)
-
-Trainer can see List of Trainees here
-![list](./images/listTr.png)
-
-Trainer can see detail before creating an asset for a trainee
-![list](./images/detail.png)
-
-Once Trainee request asset transfer, Trainer will be able to either approve or decline
-![list](./images/aprv.png)
 ____
 ## Installation
 Before installing this app, you need to prepare a few things
